@@ -29,7 +29,7 @@
 @if($viewAsUser)
 
     <div class="box-view-as">
-        Está viendo e interactuando como el usuario <strong>{{ $viewAsUserName }}</strong>. <a href="{{ url('/leave-view-as') }}"
+        Está viendo e interactuando comofdasfdsa el usuario <strong>{{ $viewAsUserName }}</strong>. <a href="{{ url('/leave-view-as') }}"
                                                                                                target="_self">Clic para
             dejar de ver</a>
     </div>
